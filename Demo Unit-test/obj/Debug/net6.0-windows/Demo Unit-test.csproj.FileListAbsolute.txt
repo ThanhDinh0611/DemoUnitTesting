@@ -1,0 +1,17 @@
+D:\Studying\.NET Projects\Demo Unit-test\Demo Unit-test\bin\Debug\net6.0-windows\Demo Unit-test.exe
+D:\Studying\.NET Projects\Demo Unit-test\Demo Unit-test\bin\Debug\net6.0-windows\Demo Unit-test.deps.json
+D:\Studying\.NET Projects\Demo Unit-test\Demo Unit-test\bin\Debug\net6.0-windows\Demo Unit-test.runtimeconfig.json
+D:\Studying\.NET Projects\Demo Unit-test\Demo Unit-test\bin\Debug\net6.0-windows\Demo Unit-test.dll
+D:\Studying\.NET Projects\Demo Unit-test\Demo Unit-test\bin\Debug\net6.0-windows\Demo Unit-test.pdb
+D:\Studying\.NET Projects\Demo Unit-test\Demo Unit-test\obj\Debug\net6.0-windows\Demo Unit-test.csproj.AssemblyReference.cache
+D:\Studying\.NET Projects\Demo Unit-test\Demo Unit-test\obj\Debug\net6.0-windows\Demo Unit-test.csproj.GenerateResource.cache
+D:\Studying\.NET Projects\Demo Unit-test\Demo Unit-test\obj\Debug\net6.0-windows\Demo Unit-test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\.NET Projects\Demo Unit-test\Demo Unit-test\obj\Debug\net6.0-windows\Demo Unit-test.AssemblyInfoInputs.cache
+D:\Studying\.NET Projects\Demo Unit-test\Demo Unit-test\obj\Debug\net6.0-windows\Demo Unit-test.AssemblyInfo.cs
+D:\Studying\.NET Projects\Demo Unit-test\Demo Unit-test\obj\Debug\net6.0-windows\Demo Unit-test.csproj.CoreCompileInputs.cache
+D:\Studying\.NET Projects\Demo Unit-test\Demo Unit-test\obj\Debug\net6.0-windows\Demo Unit-test.dll
+D:\Studying\.NET Projects\Demo Unit-test\Demo Unit-test\obj\Debug\net6.0-windows\refint\Demo Unit-test.dll
+D:\Studying\.NET Projects\Demo Unit-test\Demo Unit-test\obj\Debug\net6.0-windows\Demo Unit-test.pdb
+D:\Studying\.NET Projects\Demo Unit-test\Demo Unit-test\obj\Debug\net6.0-windows\Demo Unit-test.genruntimeconfig.cache
+D:\Studying\.NET Projects\Demo Unit-test\Demo Unit-test\obj\Debug\net6.0-windows\ref\Demo Unit-test.dll
+D:\Studying\.NET Projects\Demo Unit-test\Demo Unit-test\obj\Debug\net6.0-windows\Demo_Unit_test.QuarterCal.resources

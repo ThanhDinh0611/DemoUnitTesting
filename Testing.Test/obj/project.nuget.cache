@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "YYhUTANVU4bWsS0ezTgdvvCpmD4ohw8AKjAdSizozH6ZNjkFRPP9BFL0I+2CDmwA4aDIlY0KVI6ryxI5ijMcag==",
+  "success": false,
+  "projectFilePath": "D:\\Studying\\.NET Projects\\Demo Unit-test\\Testing.Test\\Testing.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rioca\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rioca\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\rioca\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Demo Unit-test is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project Demo Unit-test supports: net6.0-windows7.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Demo Unit-test",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

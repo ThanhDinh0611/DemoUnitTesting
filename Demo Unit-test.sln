@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{32E53499-15F6-47BC-A8C6-E55A64053AC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuarterCalculator", "QuarterCalculator\QuarterCalculator.csproj", "{EF652F82-2109-4BF4-BE5D-78CE1916C726}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32E53499-15F6-47BC-A8C6-E55A64053AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E53499-15F6-47BC-A8C6-E55A64053AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E53499-15F6-47BC-A8C6-E55A64053AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E53499-15F6-47BC-A8C6-E55A64053AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF652F82-2109-4BF4-BE5D-78CE1916C726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF652F82-2109-4BF4-BE5D-78CE1916C726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF652F82-2109-4BF4-BE5D-78CE1916C726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF652F82-2109-4BF4-BE5D-78CE1916C726}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEBD464C-27BD-4242-97EB-CFE679E7CBE9}
+	EndGlobalSection
+EndGlobal

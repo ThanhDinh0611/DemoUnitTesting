@@ -1,0 +1,11 @@
+D:\Studying\.NET Projects\Demo Unit-test\QuarterCal\bin\Release\QuarterCal.exe.config
+D:\Studying\.NET Projects\Demo Unit-test\QuarterCal\bin\Release\QuarterCal.exe
+D:\Studying\.NET Projects\Demo Unit-test\QuarterCal\bin\Release\QuarterCal.pdb
+D:\Studying\.NET Projects\Demo Unit-test\QuarterCal\obj\Release\QuarterCal.csproj.AssemblyReference.cache
+D:\Studying\.NET Projects\Demo Unit-test\QuarterCal\obj\Release\QuarterCal.csproj.SuggestedBindingRedirects.cache
+D:\Studying\.NET Projects\Demo Unit-test\QuarterCal\obj\Release\QuarterCal.QuarterCal.resources
+D:\Studying\.NET Projects\Demo Unit-test\QuarterCal\obj\Release\QuarterCal.Properties.Resources.resources
+D:\Studying\.NET Projects\Demo Unit-test\QuarterCal\obj\Release\QuarterCal.csproj.GenerateResource.cache
+D:\Studying\.NET Projects\Demo Unit-test\QuarterCal\obj\Release\QuarterCal.csproj.CoreCompileInputs.cache
+D:\Studying\.NET Projects\Demo Unit-test\QuarterCal\obj\Release\QuarterCal.exe
+D:\Studying\.NET Projects\Demo Unit-test\QuarterCal\obj\Release\QuarterCal.pdb

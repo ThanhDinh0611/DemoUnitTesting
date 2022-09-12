@@ -1,0 +1,15 @@
+D:\Studying\.NET Projects\Demo Unit-test\QuarterCalculator\bin\Debug\net6.0\QuarterCalculator.exe
+D:\Studying\.NET Projects\Demo Unit-test\QuarterCalculator\bin\Debug\net6.0\QuarterCalculator.deps.json
+D:\Studying\.NET Projects\Demo Unit-test\QuarterCalculator\bin\Debug\net6.0\QuarterCalculator.runtimeconfig.json
+D:\Studying\.NET Projects\Demo Unit-test\QuarterCalculator\bin\Debug\net6.0\QuarterCalculator.dll
+D:\Studying\.NET Projects\Demo Unit-test\QuarterCalculator\bin\Debug\net6.0\QuarterCalculator.pdb
+D:\Studying\.NET Projects\Demo Unit-test\QuarterCalculator\obj\Debug\net6.0\QuarterCalculator.csproj.AssemblyReference.cache
+D:\Studying\.NET Projects\Demo Unit-test\QuarterCalculator\obj\Debug\net6.0\QuarterCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\.NET Projects\Demo Unit-test\QuarterCalculator\obj\Debug\net6.0\QuarterCalculator.AssemblyInfoInputs.cache
+D:\Studying\.NET Projects\Demo Unit-test\QuarterCalculator\obj\Debug\net6.0\QuarterCalculator.AssemblyInfo.cs
+D:\Studying\.NET Projects\Demo Unit-test\QuarterCalculator\obj\Debug\net6.0\QuarterCalculator.csproj.CoreCompileInputs.cache
+D:\Studying\.NET Projects\Demo Unit-test\QuarterCalculator\obj\Debug\net6.0\QuarterCalculator.dll
+D:\Studying\.NET Projects\Demo Unit-test\QuarterCalculator\obj\Debug\net6.0\refint\QuarterCalculator.dll
+D:\Studying\.NET Projects\Demo Unit-test\QuarterCalculator\obj\Debug\net6.0\QuarterCalculator.pdb
+D:\Studying\.NET Projects\Demo Unit-test\QuarterCalculator\obj\Debug\net6.0\QuarterCalculator.genruntimeconfig.cache
+D:\Studying\.NET Projects\Demo Unit-test\QuarterCalculator\obj\Debug\net6.0\ref\QuarterCalculator.dll
